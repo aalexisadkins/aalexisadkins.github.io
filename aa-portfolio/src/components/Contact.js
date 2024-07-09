@@ -1,6 +1,6 @@
 // src/Contact.js
 import React from 'react';
-import './style.css'; // Assuming your CSS is in App.css or adjust the path accordingly
+import './style.css'; 
 
 const Contact = () => {
   return (

@@ -1,6 +1,6 @@
 // src/Home.js
 import React from 'react';
-import './style.css'; // Assuming your CSS is in App.css or adjust the path accordingly
+import './style.css'; 
 import alexisHeadshot from '../images/alexis2024headshot.jpeg';
 
 const Home = () => {

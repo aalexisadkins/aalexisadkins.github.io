@@ -169,20 +169,20 @@ ul {
 input[type="text"],
 input[type="email"],
 textarea {
-  width: calc(100% - 22px); /* Adjusted to fit within the padding of .card */
+  width: calc(100% - 22px); 
   margin-bottom: 10px;
   border-radius: 4px;
   font-size: 16px;
   padding: 10px;
   border: 1px solid #cccccc;
-  box-sizing: border-box; /* Ensure padding and border are included in the width */
+  box-sizing: border-box; 
 }
 
 input:hover {
   background-color: #e0e0e0;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .three-col {
     grid-template-columns: 1fr;
