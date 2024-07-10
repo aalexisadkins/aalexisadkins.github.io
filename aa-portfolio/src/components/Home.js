@@ -8,7 +8,10 @@ const Home = () => {
   return (
     <div>
       <nav>
-        <p><Link to="/contact">Contact Alexis Adkins</Link></p>
+        <p>
+          <Link to="/contact">Contact Alexis Adkins</Link>
+        
+        </p>
 
       </nav>
 

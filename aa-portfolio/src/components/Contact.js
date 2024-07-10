@@ -6,7 +6,9 @@ const Contact = () => {
   return (
     <div>
       <nav>
-        <p><a href="/">About Alexis Adkins</a></p>
+        <p>
+        <Link to="/"> About Alexis Adkins</Link>
+        </p>
       </nav>
       <h1>Contact Alexis Adkins</h1>
       <p>
@@ -32,7 +34,7 @@ const Contact = () => {
         </div>
       </div>
       <footer>
-        <p><a href="/"> &copy;Alexis Adkins</a></p>
+        <p> <Link to="/"> &copy;Alexis Adkins</Link></p>
       </footer>
     </div>
   );
