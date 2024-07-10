@@ -1,6 +1,7 @@
 // src/Home.js
 import React from 'react';
 import './style.css'; 
+import { Link } from "react-router-dom"
 import alexisHeadshot from '../images/alexis2024headshot.jpeg';
 
 const Home = () => {
@@ -94,7 +95,9 @@ const Home = () => {
         </div>
       </section>
       <footer>
-        <p><a href="/contact"> &copy;Alexis Adkins</a></p>
+        <p>
+          <Link to="/contact"> &copy;Alexis Adkins</Link>
+        </p>
       </footer>
     </div>
   );
