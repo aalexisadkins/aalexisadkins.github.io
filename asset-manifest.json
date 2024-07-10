@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.02f09453.css",
-    "main.js": "/static/js/main.6d3905bc.js",
+    "main.js": "/static/js/main.27b516f6.js",
     "static/js/453.9d72324d.chunk.js": "/static/js/453.9d72324d.chunk.js",
     "static/media/alexis2024headshot.jpeg": "/static/media/alexis2024headshot.d87d4a14ceb3dd876f74.jpeg",
     "index.html": "/index.html",
     "main.02f09453.css.map": "/static/css/main.02f09453.css.map",
-    "main.6d3905bc.js.map": "/static/js/main.6d3905bc.js.map",
+    "main.27b516f6.js.map": "/static/js/main.27b516f6.js.map",
     "453.9d72324d.chunk.js.map": "/static/js/453.9d72324d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02f09453.css",
-    "static/js/main.6d3905bc.js"
+    "static/js/main.27b516f6.js"
   ]
 }
