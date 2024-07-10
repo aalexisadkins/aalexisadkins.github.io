@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aalexisadkins.github.io/static/css/main.02f09453.css",
-    "main.js": "/aalexisadkins.github.io/static/js/main.f864f79d.js",
-    "static/js/453.9d72324d.chunk.js": "/aalexisadkins.github.io/static/js/453.9d72324d.chunk.js",
-    "static/media/alexis2024headshot.jpeg": "/aalexisadkins.github.io/static/media/alexis2024headshot.d87d4a14ceb3dd876f74.jpeg",
-    "index.html": "/aalexisadkins.github.io/index.html",
-    "main.02f09453.css.map": "/aalexisadkins.github.io/static/css/main.02f09453.css.map",
-    "main.f864f79d.js.map": "/aalexisadkins.github.io/static/js/main.f864f79d.js.map",
-    "453.9d72324d.chunk.js.map": "/aalexisadkins.github.io/static/js/453.9d72324d.chunk.js.map"
+    "main.css": "/static/css/main.02f09453.css",
+    "main.js": "/static/js/main.6d3905bc.js",
+    "static/js/453.9d72324d.chunk.js": "/static/js/453.9d72324d.chunk.js",
+    "static/media/alexis2024headshot.jpeg": "/static/media/alexis2024headshot.d87d4a14ceb3dd876f74.jpeg",
+    "index.html": "/index.html",
+    "main.02f09453.css.map": "/static/css/main.02f09453.css.map",
+    "main.6d3905bc.js.map": "/static/js/main.6d3905bc.js.map",
+    "453.9d72324d.chunk.js.map": "/static/js/453.9d72324d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02f09453.css",
-    "static/js/main.f864f79d.js"
+    "static/js/main.6d3905bc.js"
   ]
 }
