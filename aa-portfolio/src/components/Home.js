@@ -8,7 +8,8 @@ const Home = () => {
   return (
     <div>
       <nav>
-        <p><a href="/contact">Contact Alexis Adkins</a></p>
+        <p><Link to="/contact">Contact Alexis Adkins</Link></p>
+
       </nav>
 
       <section className="splash">
